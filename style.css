@@ -1,0 +1,23 @@
+.nav-link{
+    color: black;
+}
+
+.nav2-link{
+    color: black;
+    text-decoration: none !important;
+}
+
+.jumbotron{
+    background-color: #F0F3FF;
+    
+}
+
+.container{
+    background-color: #F0F3FF;
+    margin-left: 9vw;
+}
+
+.display-1{
+    color: #9e7dc7 !important;
+    font-family: 'Medusa Gothic', sans-serif;
+}
