@@ -1,3 +1,4 @@
+
 .nav-link{
     color: black;
 }
@@ -20,5 +21,12 @@
 .display-1{
     color: #563d7c !important;
     font-family: 'Medusa Gothic', sans-serif;
+}
+
+.text01{
+    color: #563d7c !important;
+    font-family: 'Medusa Gothic', sans-serif;
+    font-size: 2vw;
+    margin-left: 9vw;
 }
 
