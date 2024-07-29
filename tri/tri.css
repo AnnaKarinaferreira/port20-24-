@@ -18,7 +18,26 @@
     margin-left: 9vw;
 }
 
+/*titulo matematica*/
 .display-1{
-    color: #563d7c !important;
+    color: #6482AD !important;
     font-family: 'Medusa Gothic', sans-serif;
 }
+/*titulo natureza*/
+.display-2{
+    color: #708871 !important;
+    font-family: 'Medusa Gothic', sans-serif;
+}
+
+/*titulo linguagens*/
+.display-3{
+    color: #987070 !important;
+    font-family: 'Medusa Gothic', sans-serif;
+}
+
+/*titulo humanas*/
+.display-3{
+    color: #987070 !important;
+    font-family: 'Medusa Gothic', sans-serif;
+}
+
