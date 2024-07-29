@@ -1,0 +1,62 @@
+
+.nav-link{
+    color: black;
+}
+
+.nav2-link{
+    color: black;
+    text-decoration: none !important;
+}
+
+.jumbotron{
+    background-color: #F0F3FF;
+    
+}
+
+.container{
+    background-color: #F0F3FF;
+    margin-left: 9vw;
+}
+/*titulo matematica*/
+.display-1{
+    color: #6482AD !important;
+    font-family: 'Medusa Gothic', sans-serif;
+}
+/*titulo natureza*/
+.display-2{
+    color: #708871 !important;
+    font-family: 'Medusa Gothic', sans-serif;
+}
+
+
+.btn-group{
+    margin-left: 10vw;
+    margin-top: 4vw;
+  
+}
+/*botao de matematica*/
+#button1{
+    margin-right: 2vw;
+    border-color: #6482AD ;
+    background-color: white;
+    color: #6482AD ;
+}
+#button1:hover{
+    background-color: #7FA1C3;
+    color: #fff;
+    border-color: #fff;
+}
+
+/*botao de natureza*/
+#button2{
+    margin-right: 2vw;
+    border-color: #708871;
+    background-color: white;
+    color: #708871;
+}
+
+#button2:hover{
+    background-color: #BEC6A0;
+    color: #fff;
+    border-color: #fff;
+}

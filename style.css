@@ -26,15 +26,39 @@
 .text01{
     color: #563d7c !important;
     font-family: 'Medusa Gothic', sans-serif;
+    margin-top: 8vw;
     font-size: 2vw;
     margin-left: 9vw;
 }
-
+.subtext01{
+    color: #897aa0 !important;
+    font-family: 'Medusa Gothic', sans-serif;
+    margin-left: 9vw;
+    font-size: 1vw;
+}
 #img004{
     height: 23vw;
 }
 
 #img005{
     height: 23vw;
+}
+
+.card a{
+    color: #563d7c;
+}
+
+.card a:link{
+    color: #563d7c;
+}
+
+.card a:visited{
+    color: #563d7c;
+}
+
+.geral{
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-bottom: 10vw;
 }
 
