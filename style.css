@@ -62,3 +62,13 @@
     margin-bottom: 10vw;
 }
 
+.button{
+    color: #c2bace;
+    padding: 5px;
+    position: relative;
+    top: 10px;
+    margin-right: 15px;
+    background-color: none;
+    border-color: #563d7c;
+    text-decoration: none !important;
+}
