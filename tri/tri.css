@@ -36,7 +36,7 @@
 }
 
 /*titulo humanas*/
-.display-3{
+.display-4{
     color: #987070 !important;
     font-family: 'Medusa Gothic', sans-serif;
 }
@@ -45,4 +45,10 @@
     margin-top: 10vw;
     margin-left: 3vw;
     margin-right: 3vw;
+}
+
+.img011,
+.img012,
+.img013{
+    width: 10vw !important;
 }
