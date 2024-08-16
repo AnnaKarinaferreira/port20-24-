@@ -1,4 +1,3 @@
-
 .nav-link{
     color: black;
 }
@@ -28,12 +27,12 @@
     font-family: 'Medusa Gothic', sans-serif;
     margin-top: 8vw;
     font-size: 2vw;
-    margin-left: 9vw;
+    margin-left: 1vw;
 }
 .subtext01{
     color: #897aa0 !important;
     font-family: 'Medusa Gothic', sans-serif;
-    margin-left: 9vw;
+    margin-left: vw;
     font-size: 1vw;
 }
 #img004{
@@ -86,4 +85,16 @@
     margin-top: 4vw;
 }
 
+#button1{
+    margin-right: 2vw;
+    border-color: #563d7c;
+    background-color: white;
+    color: #563d7c;
+}
+
+#button1:hover{
+    background-color: #806aa1;
+    color: #fff;
+    border-color: #fff;
+}
     
