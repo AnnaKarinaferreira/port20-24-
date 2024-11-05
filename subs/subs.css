@@ -13,6 +13,7 @@
     
 }
 
+
 .container{
     background-color: #F0F3FF;
     margin-left: 9vw;
@@ -99,4 +100,18 @@
     background-color: #987070;
     color: #fff;
     border-color: #fff;
+}
+
+.titulotrimestrais{
+    font-family: 'Medusa Gothic', sans-serif;
+    font-size: 3em;
+    padding-left: 4em;
+    margin-top: 3em;
+    color: #987070 ;
+}
+
+.card-deck{
+    padding-left: 2%;
+    margin-top: 2%;
+    padding-right: 2%;
 }
