@@ -5,6 +5,7 @@
 
 .nav2-link{
     color: black;
+    margin-bottom: 5% !important;
     text-decoration: none !important;
 }
 
@@ -13,10 +14,7 @@
     
 }
 
-.buttons{
-    margin-left: 10%;
-    margin-top: 10%;
-}
+
 .container{
     background-color: #F0F3FF;
     margin-left: 9vw;
@@ -44,7 +42,10 @@
     font-family: 'Medusa Gothic', sans-serif;
 }
 
-
+.buttons{
+    margin-left: 10%;
+    margin-top: 10%;
+}
 
 .btn-group{
     margin-left: 10vw;
@@ -115,6 +116,6 @@
 
 .card-deck{
     padding-left: 2%;
-    margin-top: 2%;
+    margin-top: 10%;
     padding-right: 2%;
 }
