@@ -21,8 +21,17 @@
 .display-1{
     color: #563d7c !important;
     font-family: 'Medusa Gothic', sans-serif;
+    opacity:0.5;
 }
-
+.display-4
+{
+    color: rgb(98, 102, 104);
+    opacity:1;
+}
+.display-4:hover
+{       
+    opacity:0.5;
+}
 .text01{
     color: #563d7c !important;
     font-family: 'Medusa Gothic', sans-serif;
@@ -32,9 +41,9 @@
 }
 .subtext01{
     color: #897aa0 !important;
-    font-family: 'Medusa Gothic', sans-serif;
-    margin-left: 9vw;
-    font-size: 1vw;
+    margin-left: 9%;
+    font-size: 100%;
+    
 }
 #img004{
     height: 23vw;
